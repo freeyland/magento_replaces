@@ -1,6 +1,6 @@
 {
     "name": "freeyland/magento2-replaces",
-    "version": "2.3.2",
+    "version": "2.3.4",
     "replace": {
         "magento/module-advanced-pricing-import-export": "*",
         "magento/module-amqp": "*",
