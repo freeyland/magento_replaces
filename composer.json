@@ -1,8 +1,8 @@
 {
-  "name": "freeyland/magento2-replaces",
-  "version": "2.3.3",
-  "replace": {
-	"amzn/amazon-pay-and-login-magento-2-module": "*",
+    "name": "freeyland/magento2-replaces",
+    "version": "2.3.3",
+    "replace": {
+        "amzn/amazon-pay-and-login-magento-2-module": "*",
         "amzn/amazon-pay-and-login-with-amazon-core-module": "*",
         "amzn/amazon-pay-module": "*",
         "amzn/amazon-pay-sdk-php": "*",
@@ -37,5 +37,5 @@
         "vertex/module-tax": "*",
         "vertex/product-magento-module": "*",
         "vertex/sdk": "*"
-  }
+    }
 }
